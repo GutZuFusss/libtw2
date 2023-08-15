@@ -18,7 +18,7 @@ gamenet_spec = { path = "../gamenet/spec/" }
 gamenet_teeworlds_0_6 = { path = "../gamenet/teeworlds-0.6/" }
 gamenet_teeworlds_0_7 = { path = "../gamenet/teeworlds-0.7/" }
 hexdump = "0.1.1"
-itertools = "0.7.4"
+itertools = "0.7.11"
 log = "0.3.1"
 logger = { path = "../logger/" }
 map = { path = "../map/" }
